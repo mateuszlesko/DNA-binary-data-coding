@@ -1,6 +1,15 @@
-# DNA data coding algorithm
+# the algorithm of binary data coding in DNA 
+## About task:
+Recently I saw a video about biotechnology idea to store data in moss. [link here](https://www.twistbioscience.com/resources/video/how-does-dna-data-storage-work)
+Well it sounded to me like a crazy idea. 
+But one thing got my attention the way of coding binary data into chromosomes. I came up with idea that it is excellent exercise to develop programming skill, or even maybe task for job interview.
 
-## Map table of binary values to DNA chromosomes:
+So the problem is: **we are given a integer number, and we need to convert its value to set of DNA's chromosomes.**
+
+Here is my solution. Freely share your own concept of solving this task by folking my repository. 
+
+## My solution:
+### Map table of binary values to DNA chromosomes:
 |bits pair|chromosome|
 |-----|--------|
 |00 | A|
@@ -11,7 +20,7 @@
 Example:
 66 = (..0)(0)1|00|00|10 = AGAAC
 
-## Algorithm:
+### Algorithm:
 
 step 1 : set shift variable x to its max (value = 8)
 
