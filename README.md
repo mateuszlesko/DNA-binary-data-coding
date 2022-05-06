@@ -4,7 +4,7 @@ Recently I saw a video about biotechnology idea to store data in moss. [link her
 Well it sounded to me like a crazy idea. 
 But one thing got my attention the way of coding binary data into chromosomes. I came up with idea that it is excellent exercise to develop programming skill, or even maybe task for job interview.
 
-So the problem is: **we are given a integer number, and we need to convert its value to set of DNA's chromosomes.**
+So the problem is: **we are given a integer number [uint8], and we need to convert its value to set of DNA's chromosomes.**
 
 Here is my solution. Freely share your own concept of solving this task by folking my repository. 
 
